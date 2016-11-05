@@ -1803,8 +1803,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="56" />
-    <option name="y" value="35" />
+    <option name="x" value="165" />
+    <option name="y" value="62" />
     <option name="width" value="1400" />
     <option name="height" value="817" />
   </component>
@@ -1929,7 +1929,7 @@
     <property name="UI_DESIGNER_EDITOR_MODE.NlPaletteManager-NlPreviewForm.SHOW" value="false" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
-    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="device.picker.selection" value="HT4CTJT03778" />
   </component>
@@ -2251,7 +2251,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="56" y="35" width="1400" height="817" extended-state="0" />
+    <frame x="165" y="62" width="1400" height="817" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
